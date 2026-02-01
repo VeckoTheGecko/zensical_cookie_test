@@ -5,5 +5,5 @@ copier copy gh:VeckoTheGecko/scientific-python-cookie --trust --vcs-ref=zensical
 
 Updates
 ```bash
-copier update
+copier update --vcs-ref zensical --trust --skip-answered
 ```
