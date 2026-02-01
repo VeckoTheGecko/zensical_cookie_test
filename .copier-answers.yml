@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: b16e02a
+_src_path: gh:VeckoTheGecko/scientific-python-cookie
+backend: hatch
+docs: zensical
+email: example@example.com
+full_name: Nick Hodgskin
+license: MIT
+org: VeckoTheGecko
+project_name: zensical_cookie_test
+project_short_description: A great package.
+url: https://github.com/VeckoTheGecko/zensical_cookie_test
+vcs: false
