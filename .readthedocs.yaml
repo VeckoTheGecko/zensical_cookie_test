@@ -13,6 +13,6 @@ build:
     - asdf global uv latest
     - uv sync --group docs
     - uv run zensical build
-  post_build:
-    - mkdir -p $READTHEDOCS_OUTPUT/html/
-    - cp --recursive site/* $READTHEDOCS_OUTPUT/html/
+post_build:
+  - mkdir -p $READTHEDOCS_OUTPUT/html/
+  - cp --recursive site/* $READTHEDOCS_OUTPUT/html/
